@@ -12,4 +12,7 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
+External Resources
+==================
 
+The brush icon from http://www.icosky.com/icon/cursor-icon
